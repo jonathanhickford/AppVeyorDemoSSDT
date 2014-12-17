@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[Customer] (
+﻿CREATE TABLE [dbo].Punter (
     [Id]           INT           IDENTITY (1, 1) NOT NULL,
     [Name]         NVARCHAR (50) NULL,
     [Age]          INT           NULL,

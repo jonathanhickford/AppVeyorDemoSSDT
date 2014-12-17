@@ -64,6 +64,9 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\Address.sql" />
-    <Build Include="dbo\Tables\Customer.sql" />
+    <Build Include="dbo\Tables\Punter.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="AppVeyorDemo.refactorlog" />
   </ItemGroup>
 </Project>
